@@ -21,14 +21,16 @@ Locally, The API to apply a filter to the image URL: http://localhost:8082/filte
 
 for example: 
 
->> http://localhost:8082/filteredimage?image_url=https://www.wonderslist.com/wp-content/uploads/2021/05/Anastasia-Knyazeva-worlds-most-beautiful-girl.jpg
+`http://localhost:8082/filteredimage?image_url=https://www.wonderslist.com/wp-content/uploads/2021/05/Anastasia-Knyazeva-worlds-most-beautiful-girl.jpg`
 
 #BEFORE
 ![alt text](https://www.wonderslist.com/wp-content/uploads/2021/05/Anastasia-Knyazeva-worlds-most-beautiful-girl.jpg)
 
 #AFTER
+
 ![alt text](https://raw.githubusercontent.com/lupate/cloud-developer/master/course-02/project/image-filter-starter-code/deployment_screenshots/worlds-most-beautiful-girl-after-filter.jpg)
 
-AWS Elastic Beanstalk env: http://udagram-edmer-dev-dev.us-east-1.elasticbeanstalk.com/ 
+AWS Elastic Beanstalk env: `http://udagram-edmer-dev-dev.us-east-1.elasticbeanstalk.com/ `
+
 Elastic Beanstalk URL:
->> http://udagram-edmer-dev-dev.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://www.wonderslist.com/wp-content/uploads/2021/05/Anastasia-Knyazeva-worlds-most-beautiful-girl.jpg
+`http://udagram-edmer-dev-dev.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://www.wonderslist.com/wp-content/uploads/2021/05/Anastasia-Knyazeva-worlds-most-beautiful-girl.jpg`
